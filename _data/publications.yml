@@ -1,22 +1,44 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "FunctionEvolve: Structure-Guided Symbolic Regression with LLMs"
+    authors: <strong>Zeyu Xia</strong>, Jun Zhu, Dong Yan
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2606.07704
+    code: https://github.com/Phoinikas03/FunctionEvolve
+    image: ./assets/img/functionevolve.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Helix: Evolutionary Reinforcement Learning for Open-Ended Scientific Problem Solving"
+    authors: Chang Su, Zhongkai Hao, Zhizhou Zhang, <strong>Zeyu Xia</strong>, Youjia Wu, Hang Su, Jun Zhu
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2603.07642
+    code: https://github.com/EdwardIX/HELIX
+    image: ./assets/img/helix.png
+    notes: Poster
+
+  - title: "An Agentic Framework for Autonomous Materials Computation"
+    authors: <strong>Zeyu Xia</strong>, Jinzhe Ma, Congjie Zheng, Shufei Zhang, Yuqiang Li, Hang Su, P. Hu, Changshui Zhang, Xingao Gong, Wanli Ouyang, Lei Bai, Dongzhan Zhou, Mao Su
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    pdf: https://arxiv.org/pdf/2512.19458
+    code: https://github.com/Phoinikas03/VaspAgent_with_Benchmark
+    image: ./assets/img/materials-agent.png
+
+  - title: "STAIR: Improving Safety Alignment with Introspective Reasoning"
+    authors: Yichi Zhang, Siyuan Zhang, Yao Huang, <strong>Zeyu Xia</strong>, Zhengwei Fang, Xiao Yang, Ranjie Duan, Dong Yan, Yinpeng Dong, Jun Zhu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2502.02384
+    code: https://github.com/thu-ml/STAIR
+    image: ./assets/img/stair.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs"
+    authors: Zhongkai Hao, Jiachen Yao, Chang Su, Hang Su, Ziao Wang, Fanzhi Lu, <strong>Zeyu Xia</strong>, Yichi Zhang, Songming Liu, Lu Lu, Jun Zhu
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong> Datasets and Benchmarks Track, 2024.
+    pdf: https://arxiv.org/pdf/2306.08827
+    code: https://github.com/i207M/PINNacle
+    image: ./assets/img/pinnacle.png
+    notes: Poster

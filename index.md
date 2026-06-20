@@ -4,20 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Zeyu Xia is a first-year Ph.D. student in the [TSAIL Group](https://ml.cs.tsinghua.edu.cn/people.html) at Tsinghua University. He is advised by Prof. Hang Su and Prof. Jun Zhu, and works closely with Dong Yan and Dongzhan Zhou.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+His research centers on LLM post-training and the construction of agent systems, with a particular focus on their applications in science. Beyond AI for Science, he is also interested in incorporating scientific knowledge into model training, including LLMs and embodied models, to improve performance and generalization.
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Ph.D. in Computer Science**, Tsinghua University, 2025-present.
+- **B.S. in Basic Science of Mathematics and Physics**, Tsinghua University, 2021-2025.
+- **Secondary degree in Materials Science and Engineering**, Tsinghua University, 2021-2025.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+## Misc
+
+Xia loves music and sports. He is also an amateur photographer and a fan of traditional Chinese culture, especially poetry and history (see his [Xiaohongshu](https://www.xiaohongshu.com/user/profile/64ab77e2000000001403afbe)).
