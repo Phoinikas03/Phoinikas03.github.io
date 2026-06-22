@@ -53,13 +53,16 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
 
         <br>
-        <br>
         <div class="social-icons">
+        {% if site.email %}
+        <a href="mailto:{{ site.email }}" aria-label="Email">
+          <i class="fas fa-envelope"></i>
+          <span>Email</span>
+        </a>
+        {% endif %}
+
         {% if site.google_scholar %}
         <a href="{{ site.google_scholar }}" aria-label="Google Scholar">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>

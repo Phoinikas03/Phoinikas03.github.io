@@ -96,7 +96,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 0.95rem;
     font-family: "Ubuntu Mono";
 }
 
@@ -174,7 +174,10 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0;
+      display: block;
+      margin: 0 0 1em 0;
+      width: 100%;
     }
 
       .image.avatar:before {
@@ -182,9 +185,13 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        border-radius: 0;
+        display: block;
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        height: auto;
+        object-fit: cover;
+        padding: 0;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -223,7 +230,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:1.75rem;
 }
 
 a {
@@ -433,11 +440,6 @@ footer {
   }
 
 
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
   #head1o2 {
     visibility: hidden;
   }
@@ -460,6 +462,12 @@ footer {
 
   header {
     padding:0;
+  }
+
+  .image.avatar {
+    margin: 0 auto 1em;
+    max-width: 100%;
+    width: 232px;
   }
 
   header ul, header p.view {
@@ -489,11 +497,10 @@ footer {
     width:33%;
   }
 
-  .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
-      padding:20px;
+  .image.avatar {
+    width: 180px;
   }
+
   #head1o2 {
     visibility: hidden;
   }
