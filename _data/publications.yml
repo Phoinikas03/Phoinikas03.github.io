@@ -2,11 +2,12 @@ main:
 
   - title: "FunctionEvolve: Structure-Guided Symbolic Regression with LLMs"
     authors: <strong>Zeyu Xia</strong>, Jun Zhu, Dong Yan
-    conference_short: arXiv
-    conference: arXiv preprint, 2026.
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2606.07704
     code: https://github.com/Phoinikas03/FunctionEvolve
     image: ./assets/img/functionevolve.png
+    notes: Poster
 
   - title: "Helix: Evolutionary Reinforcement Learning for Open-Ended Scientific Problem Solving"
     authors: Chang Su, Zhongkai Hao, Zhizhou Zhang, <strong>Zeyu Xia</strong>, Youjia Wu, Hang Su, Jun Zhu

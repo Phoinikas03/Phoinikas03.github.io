@@ -1,4 +1,4 @@
-我是Zeyu Xia，在TSAIL(https://ml.cs.tsinghua.edu.cn/people.html)读PhD，今年1年级
+我是Zeyu Xia，在TSAIL(https://ml.cs.tsinghua.edu.cn/people.html)读PhD，今年2年级
 邮箱是xia-zy25@mails.tsinghua.edu.cn
 google scholar: https://scholar.google.com/citations?user=LRFJefUAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/zeyu-xia-425a50301/

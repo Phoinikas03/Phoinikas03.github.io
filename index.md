@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Zeyu Xia is a first-year Ph.D. student in the [TSAIL Group](https://ml.cs.tsinghua.edu.cn/people.html) at Tsinghua University. He is advised by Prof. Hang Su and Prof. Jun Zhu, and works closely with Dong Yan and Dongzhan Zhou.
+Zeyu Xia is a second-year Ph.D. student in the [TSAIL Group](https://ml.cs.tsinghua.edu.cn/people.html) at Tsinghua University. He is advised by Prof. Hang Su and Prof. Jun Zhu, and works closely with Dong Yan and Dongzhan Zhou.
 
 ## Research Interests
 
